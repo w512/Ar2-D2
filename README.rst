@@ -2,6 +2,7 @@ Bot for notifications form codebasehq to campfirenow
 ----------------------------------------------------
 
 Author: Nikolay Blohin
+
 Version: 0.2
 
 
