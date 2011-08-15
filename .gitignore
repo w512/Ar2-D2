@@ -1,0 +1,6 @@
+*~
+*.pyc
+*.tmp
+settings.py
+*.komodoproject
+ans.xml
